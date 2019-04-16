@@ -31,18 +31,14 @@ The course will be held at the [Biocenter, Medical University of Innsbruck](http
 
 The final grade will be will be assigned considering the scores obtained in the written test **and** in the hands-on project.
 
-*Written test*
-
-Multiple-choice questions on theory and small example codes like those in the slides. 
+**Written test:** Multiple-choice questions on theory and small example codes like those in the slides. 
 
 Possible dates:
 
 * **May 24, 2019**, 13:00-15:00, M01.392 (1<sup>st</sup> floor)
 * **June 03, 2019**, 9:00-11:00, M01.392 (1<sup>st</sup> floor)
 
-*Hands-on project* 
-
-Data analysis project do be described in a short report and sent by e-mail to Francesca Finotello by **June 03, 2019**. 
+**Hands-on project:** Data analysis project do be described in a short report and sent by e-mail to Francesca Finotello by **June 03, 2019**. 
 
 The object of the e-mail should be **"Rcourse2019"**.
 
