@@ -1,0 +1,4 @@
+name	age	city
+Mary	19	New York
+John	30	Seattle
+Lisa	20	New York
