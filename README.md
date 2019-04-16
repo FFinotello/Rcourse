@@ -22,7 +22,7 @@ Rstudio: https://www.rstudio.com/
 
 The course will be held at the [Biocenter, Medical University of Innsbruck](https://www.google.com/maps/place/CCB+Innsbruck/@47.2603301,11.3793039,17z/data=!3m1!4b1!4m5!3m4!1s0x479d6be93923ca25:0xe59658469f18242f!8m2!3d47.2603301!4d11.3814926)
 
-* **May 14, 2019**, 14:00-17:00, seminar room in the administration (1<sup>st</sup> floor)
+* **May 14, 2019**, 14:00-17:00, Seminar Room in the Administration (1<sup>st</sup> floor)
 * **May 15, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
 * **May 16, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
 * **May 17, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
