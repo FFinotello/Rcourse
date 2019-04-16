@@ -20,6 +20,8 @@ Rstudio: https://www.rstudio.com/
 
 ## Schedule
 
+The course will be held at the Biocenter, Medical University of Innsbruck (Innrain 80-82, 6020, Innsbruck, Austria)
+
 * May 14, 2019, 14:00-17:00, seminar room in the administration (1<sup>st</sup> floor)
 * May 15, 2019, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
 * May 16, 2019, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
