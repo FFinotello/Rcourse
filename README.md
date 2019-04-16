@@ -20,8 +20,8 @@ Rstudio: https://www.rstudio.com/
 
 ## Schedule
 
-* May 14, 2019, 14:00-17:00, seminar room in the administration (1st floor)
-* May 15, 2019, 14:00-17:00, M01.392 (1st floor)
-* May 16, 2019, 14:00-17:00, M01.392 (1st floor)
-* May 17, 2019, 14:00-17:00, M01.392 (1st floor)
+* May 14, 2019, 14:00-17:00, seminar room in the administration (1^st^ floor)
+* May 15, 2019, 14:00-17:00, M01.392 (1^st floor)
+* May 16, 2019, 14:00-17:00, M01.392 (1^st floor)
+* May 17, 2019, 14:00-17:00, M01.392 (1^st^ floor)
 
