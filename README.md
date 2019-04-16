@@ -29,16 +29,14 @@ The course will be held at the [Biocenter, Medical University of Innsbruck](http
 
 ## Exam
 
-The final grade will be will be assigned considering the scores obtained in the written test and hands-on project.
+The final grade will be will be assigned considering the scores obtained in the written test **and** in the hands-on project.
 
-Written test: multiple-choice questions on theory and small example codes like those in the slides (at the MUI after the course, without the laptop)
-
-Dates:
+*Written test*: multiple-choice questions on theory and small example codes like those in the slides. Possible dates:
 
 * **May 24, 2019**, 13:00-15:00, M01.392 (1<sup>st</sup> floor)
 * **June 03, 2019**, 9:00-11:00, M01.392 (1<sup>st</sup> floor)
 
-Hands-on project: data analysis project do be described in a short report and sent by e-mail by **June 03, 2019**. List of possible projects [here](#).
+*Hands-on project*: data analysis project do be described in a short report and sent by e-mail by **June 03, 2019**. List of possible projects [here](#).
 
 
 
