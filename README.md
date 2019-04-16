@@ -20,10 +20,25 @@ Rstudio: https://www.rstudio.com/
 
 ## Schedule
 
-The course will be held at the [Biocenter, Medical University of Innsbruck(https://www.google.com/maps/place/CCB+Innsbruck/@47.2603301,11.3793039,17z/data=!3m1!4b1!4m5!3m4!1s0x479d6be93923ca25:0xe59658469f18242f!8m2!3d47.2603301!4d11.3814926)
+The course will be held at the [Biocenter, Medical University of Innsbruck](https://www.google.com/maps/place/CCB+Innsbruck/@47.2603301,11.3793039,17z/data=!3m1!4b1!4m5!3m4!1s0x479d6be93923ca25:0xe59658469f18242f!8m2!3d47.2603301!4d11.3814926)
 
-* May 14, 2019, 14:00-17:00, seminar room in the administration (1<sup>st</sup> floor)
-* May 15, 2019, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
-* May 16, 2019, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
-* May 17, 2019, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
+* **May 14, 2019**, 14:00-17:00, seminar room in the administration (1<sup>st</sup> floor)
+* **May 15, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
+* **May 16, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
+* **May 17, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
+
+## Exam
+
+The final grade will be will be assigned considering the scores obtained in the written test and hands-on project.
+
+Written test: multiple-choice questions on theory and small example codes like those in the slides (at the MUI after the course, without the laptop)
+
+Dates:
+
+* **May 24, 2019**, 13:00-15:00, M01.392 (1<sup>st</sup> floor)
+* **June 03, 2019**, 9:00-11:00, M01.392 (1<sup>st</sup> floor)
+
+Hands-on project: data analysis project do be described in a short report and sent by e-mail by **June 03, 2019**. List of possible projects [here](#).
+
+
 
