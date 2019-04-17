@@ -36,7 +36,7 @@ The final grade will be will be assigned considering the scores obtained in the 
 * **May 24, 2019**, 13:00-15:00, M01.392 (1<sup>st</sup> floor)
 * **June 03, 2019**, 9:00-11:00, M01.392 (1<sup>st</sup> floor)
 
-**Hands-on project:** Data analysis project do be described in a short report and sent by e-mail to Dr. Finotello by **June 03, 2019**. A list of possible projects is available [here](#).
+**Hands-on project:** Data analysis project do be described in a short report and sent by e-mail to Dr. Finotello by **June 03, 2019**. A list of possible projects is available [here](https://github.com/FFinotello/Rcourse/tree/master/Projects).
 
 
 
