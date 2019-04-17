@@ -20,7 +20,7 @@ Rstudio: https://www.rstudio.com/
 
 The course slides are available [here](https://github.com/FFinotello/Rcourse/tree/master/Slides).
 
-The data and code used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Resources).
+The data and code used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
 
 ## Schedule
 
