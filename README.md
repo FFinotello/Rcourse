@@ -16,32 +16,33 @@ This course is aimed at people who would like to start using R. Previous experie
 
 The course **slides** are available [here](https://github.com/FFinotello/Rcourse/tree/master/Slides).
 
-The **data and code** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
+The **data** and **code** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
 
 R: https://www.r-project.org/
 
 Rstudio: https://www.rstudio.com/
 
 
-## Schedule
+## Course format and schedule
 
-The course will be held at the [Biocenter, Medical University of Innsbruck](https://www.google.com/maps/place/CCB+Innsbruck/@47.2603301,11.3793039,17z/data=!3m1!4b1!4m5!3m4!1s0x479d6be93923ca25:0xe59658469f18242f!8m2!3d47.2603301!4d11.3814926)
+This year, the course will take place online -- registered participants will receive a link.
 
-* **May 14, 2019**, 14:00-17:00, Seminar Room in the Administration (1<sup>st</sup> floor)
-* **May 15, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
-* **May 16, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
-* **May 17, 2019**, 14:00-17:00, M01.392 (1<sup>st</sup> floor)
+* **March 15, 2021**, 9:30-12:00
+* **March 16, 2021**, 9:30-12:00
+* **March 17, 2021**, 9:30-12:00
+* **March 18, 2021**, 9:30-12:00
 
-## Exam
+* **March 22, 2021**, 9:30-12:00
+* **March 23, 2021**, 9:30-12:00
+* **March 24, 2021**, 9:30-12:00
+* **March 25, 2021**, 9:30-12:00
 
-The final grade will be will be assigned considering the scores obtained in the written test **and** in the hands-on project.
 
-**Written test:** Multiple-choice questions on theory and small example codes like those in the slides. Possible dates:
+## Evaluation
 
-* **May 24, 2019**, 13:00-15:00, M01.392 (1<sup>st</sup> floor)
-* **June 03, 2019**, 9:00-11:00, M01.392 (1<sup>st</sup> floor)
+The final grade will be will be assigned considering the score obtained in the hands-on project.
 
-**Hands-on project:** Data analysis project do be described in a short report and sent by e-mail to Dr. Finotello by **June 03, 2019**. A list of possible projects is available [here](https://github.com/FFinotello/Rcourse/tree/master/Projects).
+**Instructions:** Data analysis project do be described in a short report and sent by e-mail to Dr. Finotello by **April 17, 2021**. A list of possible projects is available [here](https://github.com/FFinotello/Rcourse/tree/master/Projects).
 
 
 
