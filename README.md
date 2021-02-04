@@ -25,15 +25,15 @@ The **data** and **scripts** used in the course are available [here](https://git
 
 This year, the course will take place online -- registered participants will receive a link.
 
-* **March 15, 2021**, 9:30-12:00
-* **March 16, 2021**, 9:30-12:00
-* **March 17, 2021**, 9:30-12:00
-* **March 18, 2021**, 9:30-12:00
+* **Monday, March 15, 2021**, 9:30-12:00
+* **Tuesday, March 16, 2021**, 9:30-12:00
+* **Wednesday, March 17, 2021**, 9:30-12:00
+* **Thursday, March 18, 2021**, 9:30-12:00
 
-* **March 22, 2021**, 9:30-12:00
-* **March 23, 2021**, 9:30-12:00
-* **March 24, 2021**, 9:30-12:00
-* **March 25, 2021**, 9:30-12:00
+* **Monday, March 22, 2021**, 9:30-12:00
+* **Tuesday, March 23, 2021**, 9:30-12:00
+* **Wednesday, March 24, 2021**, 9:30-12:00
+* **Thursday, March 25, 2021**, 9:30-12:00
 
 
 ## Evaluation
