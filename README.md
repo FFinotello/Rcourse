@@ -12,15 +12,13 @@ In this course you will learn the basics of R through lectures and hands-on comp
 
 This course is aimed at people who would like to start using R. Previous experience in programming languages or data science is not required.
 
-## Resources 
+## Materials and code
 
 The course **slides** are available [here](https://github.com/FFinotello/Rcourse/tree/master/Slides).
 
-The **data** and **code** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
+The **data** and **scripts** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
 
-R: https://www.r-project.org/
-
-Rstudio: https://www.rstudio.com/
+**Important**: Please install [R](https://www.r-project.org/) (version $\geq$4.0) and [Rstudio](https://www.rstudio.com/) before the course start.
 
 
 ## Course format and schedule
