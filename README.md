@@ -42,7 +42,9 @@ This year, the course will take place online -- registered participants will rec
 
 The final grade will be will be assigned considering the score obtained in the hands-on project.
 
-**Instructions:** Data analysis project do be described in a short report and sent by e-mail to Francesca Finotello by **April 17, 2021**. A list of possible projects is available [here](https://github.com/FFinotello/Rcourse/tree/master/Projects).
+The data analysis project has to be described in a short report and sent by e-mail to Francesca Finotello by **April 17, 2021**. 
+
+A list of possible projects is available [here](https://github.com/FFinotello/Rcourse/tree/master/Projects).
 
 
 
