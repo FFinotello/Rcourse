@@ -18,7 +18,7 @@ The course **slides** are available [here](https://github.com/FFinotello/Rcourse
 
 The **data** and **scripts** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
 
-**Important**: Please install [R](https://www.r-project.org/) (version $\geq$4.0) and [Rstudio](https://www.rstudio.com/) before the course start.
+**Important**: Please install [R](https://www.r-project.org/) (version ≥ 4.0) and [Rstudio](https://www.rstudio.com/) before the course start.
 
 
 ## Course format and schedule
