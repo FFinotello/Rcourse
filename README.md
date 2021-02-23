@@ -64,11 +64,7 @@ This year, the course will take place online -- registered participants will rec
   * Exercises
   * Solutions
  
-* Day 8: Thursday, **March 25, 2021, 13:00-15:00** - TBA
-  * Slides
-  * Handouts
-  * Exercises
-  * Solutions
+* Day 8: Thursday, **March 25, 2021, 13:00-15:00** - Questions and hands-on exercises
 
 
 ## Evaluation
