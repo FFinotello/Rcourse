@@ -40,34 +40,34 @@ Detailed program:
   * Solutions
  
 * Day 4: Thursday, **March 18, 2021, 13:00-15:00** - TBA
-   * Slides
-   * Handouts
-   * Exercises
-   * Solutions
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
   
 * Day 5: Monday, **March 22, 2021, 13:00-15:00** - TBA
- * Slides
- * Handouts
- * Exercises
- Solutions
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
 
 * Day 6: Tuesday, **March 23, 2021, 13:00-15:00** - TBA
-   * Slides
-   * Handouts
-   * Exercises
-   * Solutions
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
 
 * Day 7: Wednesday, **March 24, 2021, 13:00-15:00** - TBA
-   * Slides
-   * Handouts
-   * Exercises
-   * Solutions
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
  
 * Day 8: Thursday, **March 25, 2021, 13:00-15:00** - TBA
-   * Slides
-   * Handouts
-   * Exercises
-   * Solutions
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
 
 
 ## Evaluation
