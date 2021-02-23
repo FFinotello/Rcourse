@@ -22,10 +22,10 @@ This year, the course will take place online -- registered participants will rec
 Detailed program:
 
 * Day 1: Monday, **March 15, 2021, 13:00-15:00** - Introduction, data types and sructures
- * [Slides](https://github.com/FFinotello/Rcourse/tree/master/Data)
- * Handouts
- * Exercises
- * Solutions
+  * [Slides](https://github.com/FFinotello/Rcourse/tree/master/Data)
+  * Handouts
+  * Exercises
+  * Solutions
  
  * Day 2: Tuesday, **March 16, 2021, 13:00-15:00** - TBA
   * Slides
