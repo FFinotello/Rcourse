@@ -17,6 +17,7 @@ Previous experience in programming languages or data science is not required.
 
 ## Course format and materials
 
+
 This year, the course will take place online -- registered participants will receive a link.
 
 **Detailed program**:
@@ -24,7 +25,7 @@ This year, the course will take place online -- registered participants will rec
 * Day 1: Monday, **March 15, 2021, 13:00-15:00** - Introduction, data types and structures
   * [Slides](https://github.com/FFinotello/Rcourse/tree/master/Data)
   * [Handouts](https://github.com/FFinotello/Rcourse/tree/master/Data)
-  * [Exercises](https://github.com/FFinotello/Rcourse/tree/master/Data)
+  * [Exercises](https://htmlpreview.github.io/?https://github.com/FFinotello/Rcourse/blob/master/Exercises/Rcourse_2021_day1_Ex.html)
   * Solutions
  
 * Day 2: Tuesday, **March 16, 2021, 13:00-15:00** - TBA
