@@ -10,30 +10,64 @@ In this course you will learn the basics of R through lectures and hands-on comp
 
 ## Prerequisites
 
-This course is aimed at people who would like to start using R. Previous experience in programming languages or data science is not required.
-
-## Materials and code
-
-The course **slides** are available [here](https://github.com/FFinotello/Rcourse/tree/master/Slides).
-
-The **data** and **scripts** used in the course are available [here](https://github.com/FFinotello/Rcourse/tree/master/Data).
+This course is aimed at people who would like to start using R. 
+Previous experience in programming languages or data science is not required.
 
 **Important**: Please install [R](https://www.r-project.org/) (version ≥ 4.0) and [Rstudio](https://www.rstudio.com/) before the course start.
 
-
-## Course format and schedule
+## Course format and materials
 
 This year, the course will take place online -- registered participants will receive a link.
 
-* **Monday, March 15, 2021**, 13:00-15:00
-* **Tuesday, March 16, 2021**, 13:00-15:00
-* **Wednesday, March 17, 2021**, 13:00-15:00
-* **Thursday, March 18, 2021**, 13:00-15:00
+Detailed program:
 
-* **Monday, March 22, 2021**, 13:00-15:00
-* **Tuesday, March 23, 2021**, 13:00-15:00
-* **Wednesday, March 24, 2021**, 13:00-15:00
-* **Thursday, March 25, 2021**, 13:00-15:00
+* Day 1: Monday, **March 15, 2021, 13:00-15:00** - Introduction, data types and sructures
+ * [Slides](https://github.com/FFinotello/Rcourse/tree/master/Data)
+ * Handouts
+ * Exercises
+ * Solutions
+ 
+ * Day 2: Tuesday, **March 16, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+
+ * Day 3: Wednesday, **March 17, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+ 
+  * Day 4: Thursday, **March 18, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+  
+  * Day 5: Monday, **March 22, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+
+ * Day 6: Tuesday, **March 23, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+
+ * Day 7: Wednesday, **March 24, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
+ 
+  * Day 8: Thursday, **March 25, 2021, 13:00-15:00** - TBA
+  * Slides
+  * Handouts
+  * Exercises
+  * Solutions
 
 
 ## Evaluation
