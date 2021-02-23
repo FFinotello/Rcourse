@@ -23,15 +23,15 @@ This year, the course will take place online -- registered participants will rec
 **Detailed program**:
 
 * Day 1: Monday, **March 15, 2021, 13:00-15:00** - *Introduction, data types and structures*
-  * [Slides](https://htmlpreview.github.io/?https://github.com/FFinotello/Rcourse/blob/master/Slides/Rcourse_2021_day1.html)
+  * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day1.html)
   * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day1.pdf)
-  * [Exercises](https://htmlpreview.github.io/?https://github.com/FFinotello/Rcourse/blob/master/Exercises/Rcourse_2021_day1_Ex.html)
+  * [Exercises](https://raw.githack.com/FFinotello/Rcourse/blob/master/Exercises/Rcourse_2021_day1_Ex.html)
   * Solutions
  
 * Day 2: Tuesday, **March 16, 2021, 13:00-15:00** - *File paths, R data and scripts, functions*
-  * [Slides](https://htmlpreview.github.io/?https://github.com/FFinotello/Rcourse/blob/master/Slides/Rcourse_2021_day2.html)
+  * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day2.html)
   * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day2.pdf)
-  * [Exercises](https://htmlpreview.github.io/?https://github.com/FFinotello/Rcourse/blob/master/Exercises/Rcourse_2021_day2_Ex.html)
+  * [Exercises](https://raw.githack.com/FFinotello/Rcourse/blob/master/Exercises/Rcourse_2021_day2_Ex.html)
   * Solutions
 
 * Day 3: Wednesday, **March 17, 2021, 13:00-15:00** - TBA
