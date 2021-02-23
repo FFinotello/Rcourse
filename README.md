@@ -63,7 +63,7 @@ This year, the course will take place online -- registered participants will rec
   * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day7_Ex.html)
   * Solutions
  
-* Day 8: Thursday, **March 25, 2021, 13:00-15:00** - **QA and hands-on exercises**
+* Day 8: Thursday, **March 25, 2021, 13:00-15:00** - *QA and hands-on exercises*
 
 
 ## Evaluation
