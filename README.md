@@ -60,7 +60,7 @@ This year, the course will take place online -- registered participants will rec
 
 * Day 7: Wednesday, **March 24, 2021, 13:00-15:00** - *The importance of data visualization*
   * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day7_Ex.html)
-  * [Handouts](ttps://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day7.pdf)
+  * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day7.pdf)
  
 * Day 8: Thursday, **March 25, 2021, 13:00-15:00** - *QA and hands-on exercises*
 
