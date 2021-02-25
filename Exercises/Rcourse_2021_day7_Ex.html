@@ -372,7 +372,7 @@ summary {
 <p></br></p>
 <div id="data-statistics-and-visualization" class="section level1">
 <h1>Data statistics and visualization</h1>
-<p>Use the following function specifying as arguments your name and surname to determine the dataset to analyze. Please, remove or convert the umlaut.</p>
+<p>Use the following function, which takes as arguments your name and surname, to determine the identifier of the dataset you will analyze. Please, when specifying your name and surname, remove or convert any special character (e.g., umlaut) appropriately.</p>
 <pre class="r"><code>seldataset &lt;- function(name, surname) {
   
 
@@ -397,7 +397,7 @@ summary {
 }</code></pre>
 <pre class="r"><code>seldataset(name = &quot;Francesca&quot;, surname = &quot;Finotello&quot;) </code></pre>
 <pre><code>## [1] &quot;D2&quot;</code></pre>
-<p>Download the assigned RData dataset from <a href="https://github.com/FFinotello/Rcourse/tree/master/Data/Day7" class="uri">https://github.com/FFinotello/Rcourse/tree/master/Data/Day7</a>.</p>
+<p>Download the assigned RData dataset (e.g., <em>D2_data.RData</em>) from <a href="https://github.com/FFinotello/Rcourse/tree/master/Data/Day7" class="uri">https://github.com/FFinotello/Rcourse/tree/master/Data/Day7</a>.</p>
 <p>Load it in R and compute the following statistics, rounded at 2 digits resolution:</p>
 <ul>
 <li>Mean of the <em>x</em> variable</li>
@@ -408,9 +408,9 @@ summary {
 <li>Slope of the linear model <code>lm(y~x)</code></li>
 <li>Intercept of the linear model <code>lm(y~x)</code></li>
 </ul>
-<p>Save the results, together with the analyzed dataset name, in <a href="https://docs.google.com/document/d/1I0R8CdzHQHkox6zJtsyYG8r5vTd0teqJ8TmWx1cojdA/edit">this Google Doc</a>, in the table row corresponding to your name.</p>
-<p>Make a scatter plot of y versus x with an appropriate representation of the points, as well as naming and size of the axis labels and title. Arrange the plot “cosmetics” as you wish.</p>
-<p>Save it into a .png file named as your dataset (e.g., “D1.png”, “D2.png”) and load it into <a href="https://drive.google.com/drive/folders/1kC1CR9cqwfLaZpqRtEfPy3OdonvwAc6U">this Google drive folder</a>.</p>
+<p>Save the results, together with the analyzed dataset name, in the table present in <a href="https://docs.google.com/document/d/1I0R8CdzHQHkox6zJtsyYG8r5vTd0teqJ8TmWx1cojdA/edit">this Google Doc</a>, in the row corresponding to your name.</p>
+<p>Make a scatter plot of <em>y</em> versus <em>x</em> with an appropriate representation of the points, as well as naming and size of the axis labels and title. Arrange the plot “cosmetics” as you wish.</p>
+<p>Save it into a <em>.png</em> file named <em>dataset_name_surname.png</em> (e.g., <em>D2_Francesca_Finotello.png</em>) and load it into <a href="https://drive.google.com/drive/folders/1kC1CR9cqwfLaZpqRtEfPy3OdonvwAc6U">this Google drive folder</a>.</p>
 </div>
 
 
