@@ -47,9 +47,9 @@ This year, the course will take place online -- registered participants will rec
   * Solutions
   
 * Day 5: Monday, **March 22, 2021, 13:00-15:00** - *Data visualization* 
-  * Slides
-  * Handouts
-  * Exercises
+  * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day5.html)
+  * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day5.pdf)
+  * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day5_Ex.html)
   * Solutions
 
 * Day 6: Tuesday, **March 23, 2021, 13:00-15:00** - *Reading and writing tabular data*
