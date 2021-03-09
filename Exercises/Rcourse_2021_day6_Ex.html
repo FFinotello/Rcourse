@@ -376,7 +376,8 @@ summary {
 <div id="ex.-6.1" class="section level2">
 <h2>Ex. 6.1</h2>
 <p>Download the <em>Tcell_RNAseq_counts.txt</em> file from <a href="https://github.com/FFinotello/Rcourse/tree/master/Data/Day6/Tcell_RNAseq_counts.txt">this link</a> that contains expression data in the form of raw gene counts from a RNA sequencing (RNA-seq) experiment of CD4+ T cells stimulated with various cytokines (<a href="https://www.nature.com/articles/s41467-020-15543-y">Cano-Gamez A. et al. 2020</a>).</p>
-<p>Load the file in R as a data.frame using the <strong>read.table</strong> function and check its format by printing to screen the first five rows and columns. <em>Hint</em>: make sure to set the <em>row.names</em>, <em>header</em>, and <em>sep</em> parameters according to your file format.</p>
+<p>Load the file in R as a data.frame using the <strong>read.table</strong> function and check its format by printing to screen the first five rows and columns.</p>
+<p><strong>Hint</strong>: make sure to set the <em>row.names</em>, <em>header</em>, and <em>sep</em> parameters according to your file format.</p>
 <p>Download the <em>Tcell_RNAseq_metadata.txt</em> file from <a href="https://github.com/FFinotello/Rcourse/tree/master/Data/Day6/Tcell_RNAseq_metadata.txt">this link</a> containing matched metadata about the samples.</p>
 <p>Load this file in R as done for the count file.</p>
 <p>Check the column names in the metadata to see which information is available for each sample.</p>
@@ -389,7 +390,7 @@ summary {
 <div id="ex.-6.2" class="section level2">
 <h2>Ex. 6.2</h2>
 <p>From the full metadata data.frame of Ex. 6.1, select only the rows corresponding to CD4 naive T cells (<em>cell_type</em> column) treated with Th1- or Th2-inducing cytokines (<em>cytokine_condition</em> column) for 5 days (<em>stimulation_time</em> column), and save it into a new data.frame called <em>metadata.sel</em>.</p>
-<p><em>Hint</em>: you can identify the intersection of samples (i.e., rows) satisfying all conditions.</p>
+<p><strong>Hint</strong>: you can identify the intersection of samples (i.e., rows) satisfying all conditions.</p>
 <p>Using the <strong>table</strong> function, check how many samples from each cytokine condition (i.e., “Th1” and “Th2”) are available in <em>metadata.sel</em>.</p>
 <p>Set the sample identifiers (<em>sample_id</em> column) as row names of the <em>metadata.sel</em> data.frame.</p>
 <p>Save in a vector named <em>selsamples</em> the list of sample identifiers (i.e., row names) of the <em>metadata.sel</em> data.frame.</p>
