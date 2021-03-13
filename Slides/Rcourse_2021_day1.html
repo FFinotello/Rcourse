@@ -3398,9 +3398,9 @@ x + y</pre>
 <p>In R, there are several types of atomic vectors (also called <em>classes</em>):</p>
 
 <ul>
-<li>Character</li>
-<li>Numeric</li>
-<li>Logical</li>
+<li><strong>Numeric</strong></li>
+<li><strong>Character</strong></li>
+<li><strong>Logical</strong></li>
 <li>Complex</li>
 <li>Integer</li>
 </ul>
@@ -3604,9 +3604,9 @@ age</pre>
 
 <pre class = 'prettyprint lang-r'>days &lt;- c(&quot;Mon&quot;, &quot;Tue&quot;, &quot;Wed&quot;, &quot;Thu&quot;, &quot;Fri&quot;, &quot;Sat&quot;, &quot;Sun&quot;)
 
-days[c(1,6,7)] </pre>
+days[c(6,7)] # Format: days[ INDEX ]</pre>
 
-<pre >## [1] &quot;Mon&quot; &quot;Sat&quot; &quot;Sun&quot;</pre>
+<pre >## [1] &quot;Sat&quot; &quot;Sun&quot;</pre>
 
 <pre class = 'prettyprint lang-r'>weekend &lt;- days[c(FALSE, FALSE, FALSE, FALSE, FALSE, TRUE, TRUE)]
 
