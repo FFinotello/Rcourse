@@ -3545,11 +3545,11 @@ Inf</span></p>
 
 <p>Vectors can contain a single data type only, so beware of conversions</p>
 
-<pre class = 'prettyprint lang-r'>(z &lt;- c(&quot;a&quot;, &quot;b&quot;, 1, 2))</pre>
+<pre class = 'prettyprint lang-r'>( z &lt;- c(&quot;a&quot;, &quot;b&quot;, 1, 2) )</pre>
 
 <pre >## [1] &quot;a&quot; &quot;b&quot; &quot;1&quot; &quot;2&quot;</pre>
 
-<pre class = 'prettyprint lang-r'>(v &lt;- c(x, y))</pre>
+<pre class = 'prettyprint lang-r'>( v &lt;- c(x, y) )</pre>
 
 <pre >## [1] &quot;1&quot; &quot;2&quot; &quot;3&quot; &quot;4&quot; &quot;a&quot; &quot;b&quot; &quot;c&quot;</pre>
 
@@ -3576,7 +3576,7 @@ y</pre>
 
 <pre >## [1] &quot;A&quot; &quot;A&quot; &quot;A&quot; &quot;A&quot; &quot;A&quot;</pre>
 
-<pre class = 'prettyprint lang-r'>z &lt;- c(rep(&quot;A&quot;, 3), rep(&quot;B&quot;, 5))  # Vector combination
+<pre class = 'prettyprint lang-r'>z &lt;- c( rep(&quot;A&quot;, 3), rep(&quot;B&quot;, 5) )  # Vector combination
 z</pre>
 
 <pre >## [1] &quot;A&quot; &quot;A&quot; &quot;A&quot; &quot;B&quot; &quot;B&quot; &quot;B&quot; &quot;B&quot; &quot;B&quot;</pre>
@@ -3600,21 +3600,7 @@ age</pre>
 
 </article></slide><slide class=""><hgroup><h2>Accessing vectors</h2></hgroup><article  id="accessing-vectors">
 
-<p>You can access the elements of a vector by using <em>logical</em> or <em>numeric</em> indexes (positive and negative) between brackets:</p>
-
-<pre class = 'prettyprint lang-r'>days &lt;- c(&quot;Mon&quot;, &quot;Tue&quot;, &quot;Wed&quot;, &quot;Thu&quot;, &quot;Fri&quot;, &quot;Sat&quot;, &quot;Sun&quot;)
-
-days[c(6,7)] # Format: days[ INDEX ]</pre>
-
-<pre >## [1] &quot;Sat&quot; &quot;Sun&quot;</pre>
-
-<pre class = 'prettyprint lang-r'>weekend &lt;- days[c(FALSE, FALSE, FALSE, FALSE, FALSE, TRUE, TRUE)]
-
-weekend &lt;- days[-seq(1,5)] # Negative ind. of elements to be removed</pre>
-
-</article></slide><slide class=""><hgroup><h2>Accessing vectors</h2></hgroup><article  id="accessing-vectors-1">
-
-<p>To access vector elements, you must use square brackets.<br/>Round brackets are for functions.</p>
+<p>You can access the elements of a vector by using indexes between <strong>square</strong> brackets. <strong>Note</strong>: Round brackets are for functions.</p>
 
 <pre class = 'prettyprint lang-r'>age &lt;- c(11, 12, 18, 20, 45, 2, 33)
 
@@ -3630,12 +3616,26 @@ age[1]</pre>
 
 <pre >## [1] 20.14286</pre>
 
+</article></slide><slide class=""><hgroup><h2>Accessing vectors</h2></hgroup><article  id="accessing-vectors-1">
+
+<p>You can access the elements of a vector by using <em>logical</em> or <em>numeric</em> indexes (positive and negative)</p>
+
+<pre class = 'prettyprint lang-r'>days &lt;- c(&quot;Mon&quot;, &quot;Tue&quot;, &quot;Wed&quot;, &quot;Thu&quot;, &quot;Fri&quot;, &quot;Sat&quot;, &quot;Sun&quot;)
+
+days[c(6,7)] # Format: days[ INDEX ]</pre>
+
+<pre >## [1] &quot;Sat&quot; &quot;Sun&quot;</pre>
+
+<pre class = 'prettyprint lang-r'>weekend &lt;- days[c(FALSE, FALSE, FALSE, FALSE, FALSE, TRUE, TRUE)]
+
+weekend &lt;- days[-seq(1,5)] # Negative ind. of elements to be removed</pre>
+
 </article></slide><slide class=""><hgroup><h2>Accessing vectors</h2></hgroup><article  id="accessing-vectors-2">
 
 <p>Vector elements can be also accessed using their names, when initialized</p>
 
 <pre class = 'prettyprint lang-r'>age &lt;- c(11, 12, 18, 20)
-names(age) &lt;-c(&quot;John&quot;, &quot;Lisa&quot;, &quot;Maria&quot;, &quot;Markus&quot;)
+names(age) &lt;- c(&quot;John&quot;, &quot;Lisa&quot;, &quot;Maria&quot;, &quot;Markus&quot;)
 
 age</pre>
 
