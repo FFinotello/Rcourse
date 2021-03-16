@@ -32,13 +32,13 @@ This year, the course will take place online -- registered participants will rec
   * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day2.html)
   * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day2.pdf)
   * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day2_Ex.html)
-  * Solutions
+  * [Solutions](https://raw.githack.com/FFinotello/Rcourse/master/Solutions/Rcourse_2021_day2_Ex_Sol.html)
 
 * Day 3: Wednesday, **March 17, 2021, 13:00-15:00** - *Data structures and functions (part 2)*
   * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day3.html)
   * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day3.pdf)
   * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day3_Ex.html)
-  * [Solutions](https://raw.githack.com/FFinotello/Rcourse/master/Solutions/Rcourse_2021_day2_Ex_Sol.html)
+  * Solutions
  
 * Day 4: Thursday, **March 18, 2021, 13:00-15:00** - *Loops and control statements*
   * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day4.html)
