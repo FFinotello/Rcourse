@@ -431,7 +431,7 @@ if ( glycemia &lt; hypo_thresh ) {
 </div>
 <div id="ex.-4.4" class="section level2">
 <h2>Ex. 4.4</h2>
-<p>Write a function that takes in input a temperature in Fahrenheit, converts it into Celsius (see Ex. 2.11), and prints to screen (with <strong>cat</strong>) “freeze” in case the temperature is equal or lower than 0°C.</p>
+<p>Write a function that takes in input a temperature in Fahrenheit, converts it into Celsius (see Ex. 2.11) and, if the temperature is equal or lower than 0°C, prints to screen “freeze” using the <strong>cat</strong> function.</p>
 <p>Test the function on the following values: 25°F, 32°F, and 68°F.</p>
 <p></br></p>
 </div>
@@ -449,7 +449,7 @@ if ( glycemia &lt; hypo_thresh ) {
 ## 5          5.0         3.6          1.4         0.2  setosa
 ## 6          5.4         3.9          1.7         0.4  setosa</code></pre>
 <p>In a script, initialize two variables, <em>N</em> and <em>S</em>, to 0.</p>
-<p>These variables will used to save the number of flowers from the versicolor species and the sum of their petal lengths</p>
+<p>These variables will be used to save the number of flowers from the versicolor species (<em>N</em>) and the sum of their petal lengths (<em>S</em>).</p>
 <p>Use a <strong>for</strong> loop to iterate though the rows of <em>iris</em> and, at each iteration, if the corresponding flower belongs to the versicolor species:</p>
 <ul>
 <li>Add 1 to the <em>N</em> variable</li>
@@ -471,20 +471,20 @@ if ( glycemia &lt; hypo_thresh ) {
 <p>Initialize the following list and vector:</p>
 <pre class="r"><code>SepWid &lt;- list( setosa=0, versicolor=0, virginica=0)
 thresh &lt;- 3</code></pre>
-<p>You will save in the <em>SepWid</em> list the number of flowers for each species that have a sepal width greated than 3 cm.</p>
+<p>You will save in the <em>SepWid</em> list the number of flowers for each species that have a sepal width greater than 3 cm.</p>
 <p>To do so, write a script that iterates through the the rows of the <em>iris</em> data.frame and update the counts in <em>SepWid</em> whenever <em>Sepal.Width</em> is greated than <em>thresh</em>.</p>
 <p><strong>Tip</strong>: use the <em>if/else</em> statement to consider the counts for the various species separately.</p>
 </div>
 <div id="ex.-4.8" class="section level2">
 <h2>Ex. 4.8</h2>
-<p>Modify the script of Ex. 4.7 to compute the same analysis without using the <em>if/else</em> statement, but saving the results in a new list called <em>SepWid2</em>.</p>
+<p>Modify the script of Ex. 4.7 to run the same analysis without using the <em>if/else</em> statement but only a single <em>if</em> (to check whether the sepal width is higher than the threshold). Save the results in a new list called <em>SepWid2</em>.</p>
 </div>
 <div id="ex.-4.9" class="section level2">
 <h2>Ex. 4.9</h2>
 <p>Write a new script to perform the same analysis of Ex. 4.7 and 4.8 but by implementing the following steps:</p>
 <ul>
-<li><p>Select only the rows in the <em>iris</em> data.frame corresponding to a sepal width greater than three and save it into a new data.frame.</p></li>
-<li><p>Use the <strong>table</strong> function to compute the occurrences of the three Iris species.</p></li>
+<li><p>Select only the rows in the <em>iris</em> data.frame corresponding to a sepal width greater than the threshold and save it into a new data.frame.</p></li>
+<li><p>Use the <strong>table</strong> function to compute the occurrences of the three iris species.</p></li>
 </ul>
 </div>
 </div>
