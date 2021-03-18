@@ -3132,16 +3132,16 @@ slide:not(.current) .plotly.html-widget{
 
 <p>In R, there are three loop structures:</p>
 
-<pre class = 'prettyprint lang-r'>for (variable in sequence) {
-  # Chunck of code to be repeated...
+<pre class = 'prettyprint lang-r'>repeat {
+  # Chunk of code to be repeated...
 }</pre>
 
 <pre class = 'prettyprint lang-r'>while (condition) {
-  # Chunck of code to be repeated...
+  # Chunk of code to be repeated...
 } </pre>
 
-<pre class = 'prettyprint lang-r'>repeat {
-  # Chunck of code to be repeated...
+<pre class = 'prettyprint lang-r'>for (variable in sequence) {
+  # Chunk of code to be repeated...
 }</pre>
 
 </article></slide><slide class=""><hgroup><h2>The <em>for</em> loop</h2></hgroup><article  id="the-for-loop">
@@ -3187,7 +3187,7 @@ mysum</pre>
 repeat {
   
   print(x)
-  x &lt;- x+1
+  x &lt;- x + 1
   if (x == 6) { 
     break
   }
@@ -3205,7 +3205,7 @@ repeat {
 <p>The <span style="color:orangered">
 if/else</span> statement executes a block of code if a specified condition is TRUE. If the condition is FALSE, another block of code is executed.</p>
 
-<pre class = 'prettyprint lang-r'>temperature &lt;- 39
+<pre class = 'prettyprint lang-r'>temperature &lt;- 39 #°C
 fever_thresh &lt;- 37.2
 
 if (temperature &gt; fever_thresh) {
@@ -3223,9 +3223,9 @@ if (temperature &gt; fever_thresh) {
 <p>The <span style="color:orangered">
 if/else</span> statement can be used to consider more than two conditions.</p>
 
-<pre class = 'prettyprint lang-r'>glycemia &lt;- 100
-hypo_thresh &lt;- 70 # mg/dL
-hyper_thresh &lt;- 130 # mg/dL
+<pre class = 'prettyprint lang-r'>glycemia &lt;- 100 # mg/dL
+hypo_thresh &lt;- 70
+hyper_thresh &lt;- 130
 
 if (glycemia &lt; hypo_thresh) {
   cat(&quot;Hypoglycemia\n&quot;)
