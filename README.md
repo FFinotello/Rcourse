@@ -44,7 +44,7 @@ This year, the course will take place online -- registered participants will rec
   * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day4.html)
   * [Handouts](https://github.com/FFinotello/Rcourse/blob/master/Handouts/Rcourse_2021_day4.pdf)
   * [Exercises](https://raw.githack.com/FFinotello/Rcourse/master/Exercises/Rcourse_2021_day4_Ex.html)
-  * Solutions
+  * [Solutions](https://raw.githack.com/FFinotello/Rcourse/master/Solutions/Rcourse_2021_day4_Ex_Sol.html)
   
 * Day 5: Monday, **March 22, 2021, 13:00-15:00** - *Data visualization* 
   * [Slides](https://raw.githack.com/FFinotello/Rcourse/master/Slides/Rcourse_2021_day5.html)
