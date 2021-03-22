@@ -375,7 +375,7 @@ summary {
 <p></br></p>
 <div id="ex.-5.1" class="section level2">
 <h2>Ex. 5.1</h2>
-<p>Load the <em>iris</em> dataset (also used for day-4 exercises)</p>
+<p>Load the <em>iris</em> dataset (also used for day-4 exercises):</p>
 <pre class="r"><code>data(&quot;iris&quot;)
 head(iris)</code></pre>
 <pre><code>##   Sepal.Length Sepal.Width Petal.Length Petal.Width Species
@@ -385,58 +385,58 @@ head(iris)</code></pre>
 ## 4          4.6         3.1          1.5         0.2  setosa
 ## 5          5.0         3.6          1.4         0.2  setosa
 ## 6          5.4         3.9          1.7         0.4  setosa</code></pre>
-<p>Extract a portion of the dataset corresponding to the Iris virginica species and save it into a new data.frame called <em>iris.virginica</em></p>
-<p>Using the <em>iris.virginica</em> data.frame, make a scatterplot of sepal length (y-axis) versus petal length (x-axis)</p>
+<p>Extract a portion of the dataset corresponding to the Iris virginica species and save it into a new data.frame called <em>iris.virginica</em>.</p>
+<p>Using the <em>iris.virginica</em> data.frame, make a scatterplot of sepal length (y-axis) versus petal length (x-axis).</p>
 <p>Add title, x- and y-axis labels.</p>
-<p>Fix their magnification with <em>cex.main</em>, <em>cex.axis</em>, and <em>cex.lab</em></p>
-<p>Change the orientation of all axis labels to horizontal using the <em>las</em> function (use the <em>help</em> function to understand its usage)</p>
-<p>Change the character used to show the data point to have a filled circle</p>
-<p>Use a “color-picker” or “color-palette” website (e.g., <a href="https://colorbrewer2.org" class="uri">https://colorbrewer2.org</a>) to select a color you like and obtain its HEX code (e.g., “#004643”), and use it to specify the color of the points</p>
-<p>Compute the linear fit of sepal length vs. petal length and save it into a variable called <em>vFit</em></p>
-<p>Plot the linear fit using the <em>abline</em> function, using a thin (<code>lwd = 0.8</code>), dashed, dark-gray line</p>
+<p>Fix their magnification with <em>cex.main</em>, <em>cex.axis</em>, and <em>cex.lab</em>.</p>
+<p>Change the orientation of all axis labels to horizontal using the <em>las</em> parameter (try to used values from 0 to 4).</p>
+<p>Change the character used to show the data point to have a filled circle.</p>
+<p>Use a “color-picker” or “color-palette” website (e.g., <a href="https://colorbrewer2.org" class="uri">https://colorbrewer2.org</a>) to select a color you like and obtain its HEX code (e.g., “#004643”), and use it to specify the color of the points.</p>
+<p>Compute the linear fit of sepal length vs. petal length and save it into a variable called <em>vFit</em>.</p>
+<p>Plot the linear fit using the <em>abline</em> function, using a thin (<code>lwd = 0.8</code>), dashed, dark-gray line.</p>
 <p>Compute the Spearman correlation of the sepal length vs. petal length (rounded to two digits) and plot the text label “R = <your correlation>” in correspondence of position [6.5, 5.5] in the plot, with a reasonable magnification (<em>cex</em>).</p>
 <p></br></p>
 </div>
 <div id="ex.-5.2" class="section level2">
 <h2>Ex. 5.2</h2>
-<p>From the <em>iris</em> dataset, extract the data corresponding to the Iris versicolor species and save it into a new data.frame called <em>iris.versicolor</em></p>
+<p>From the <em>iris</em> dataset, extract the data corresponding to the Iris versicolor species and save it into a new data.frame called <em>iris.versicolor</em>.</p>
 <p>Using the <em>iris.versicolor</em> data.frame you have just created, make an density histogram of petal length</p>
 <p>Add title and x-axis names with magnification 1.2.</p>
-<p>Change the color of the bars to <em>lightblue</em></p>
-<p>Add a black line with with of 2 representing the density (estimated with the <em>density</em> function)</p>
+<p>Change the color of the bars to <em>lightblue</em>.</p>
+<p>Add a black line with with of 2 representing the density (estimated with the <em>density</em> function).</p>
 <p></br></p>
 </div>
 <div id="ex.-5.3" class="section level2">
 <h2>Ex. 5.3</h2>
-<p>From the <em>iris</em> dataset, extract the data corresponding to the Iris setosa species and save it into a new data.frame called <em>iris.setosa</em></p>
+<p>From the <em>iris</em> dataset, extract the data corresponding to the Iris setosa species and save it into a new data.frame called <em>iris.setosa</em>.</p>
 <p>Using the three sub-datasets you have created, make a boxplot showing the distribution of petal length for the three species. To do so, put them in a named list to be passed to the <em>boxplot</em> function.</p>
-<p>Add title and axis names</p>
-<p>Color the three boxes using a different color for each species</p>
+<p>Add title and axis names.</p>
+<p>Color the three boxes using a different color for each species.</p>
 <p></br></p>
 </div>
 <div id="ex.-5.4" class="section level2">
 <h2>Ex. 5.4</h2>
 <p>The <em>boxplot</em> function can be also applied to a data.frame by specifying a <em>formula</em> (e.g., <code>Petal.Width~Species</code> to consider petal width depending on the species) and <em>data</em> (i.e., the <code>iris</code> data.frame, in our case). Seek for more information using the <em>help</em> function.</p>
-<p>Starting from the <strong>original</strong> <em>iris</em> data.frame, compute a boxplot of petal width using a formula and color it by using different colors for different species</p>
+<p>Starting from the <strong>original</strong> <em>iris</em> data.frame, compute a boxplot of petal width using a formula and color it by using different colors for different species.</p>
 <p></br></p>
 </div>
 <div id="ex.-5.5" class="section level2">
 <h2>Ex. 5.5</h2>
-<p>Starting from the <strong>original</strong> <em>iris</em> data.frame, add a column called <em>color</em> reporting the color assigned to each flower (i.e., row) depending on the species it belongs to</p>
+<p>Starting from the <strong>original</strong> <em>iris</em> data.frame, add a column called <em>color</em> reporting the color assigned to each flower (i.e., row) depending on the species it belongs to.</p>
 <p>Make a scatterplot of sepal length (y-axis) versus petal length (x-axis) of all flowers, colored according to the information saved in the <em>color</em> column</p>
-<p>Add a line depicting the linear fit and some textual information on the correlation between x and y variables</p>
+<p>Add a line depicting the linear fit and some textual information on the correlation between x and y variables.</p>
 <p>You can add a legend to the right of the figure using the <em>legend</em> function as in the example below:</p>
 <pre class="r"><code>legend(&quot;bottomright&quot;,
      pch = 1,
      bty = &quot;o&quot;,
      col = c(&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;),
      legend = c(&quot;classA&quot;, &quot;classB&quot;, &quot;classC&quot;))</code></pre>
-<p>Modify the arguments of the example above to add an explanatory legend to your figure</p>
+<p>Modify the arguments of the example above to add an explanatory legend to your figure.</p>
 <p></br></p>
 </div>
 <div id="ex.-5.6" class="section level2">
 <h2>Ex. 5.6</h2>
-<p>Adapt the code of Ex. 5.4. to compare petal width (x-axis) with sepal width (y-axis) and save the resulting plot into a png file named <em>Iris_width_plots.png</em></p>
+<p>Adapt the code of Ex. 5.4. to compare petal width (x-axis) with sepal width (y-axis) and save the resulting plot into a png file named <em>Iris_width_plots.png</em>.</p>
 </div>
 </div>
 
